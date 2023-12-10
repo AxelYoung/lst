@@ -1,1 +1,1 @@
-Fixes Rust's stupid "Vec" naming convention that was inherited from C.
+Fixes Rust's stupid "Vec" naming convention for dynamic arrays that was inherited from C.
